@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "dev",
+        "MONGO_PASSWORD": "magic",
+        "MONGO_DB": "mexecommerce"
+    }
+}
